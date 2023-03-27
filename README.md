@@ -18,7 +18,7 @@ Atualmente sou fisioterapeuta e estou em transição de carreira para a área de
 
 ##
 
-<div align="center">
+<div align="center"; style="display: inline_block">
   <a href="https://github.com/makafreitasdev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=makafreitasdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=makafreitasdev&layout=compact&langs_count=7&theme=dark"/>
@@ -31,4 +31,3 @@ Atualmente sou fisioterapeuta e estou em transição de carreira para a área de
   <img align="center" alt="Maka-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
-<div style="display: inline_block"><br>
