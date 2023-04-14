@@ -4,7 +4,7 @@ Atualmente sou fisioterapeuta e estou em transição de carreira para a área de
 
 - 🌱 Bacharel em Fisioterapia 2018.2 - ASCES-UNITA
 - 💻 Desenvolvimento Web
-- 🌱 Análise e Desenvolvimento de Sistemas - Faculdade Anhanguera
+- 🌱 Cursando Análise e Desenvolvimento de Sistemas - Faculdade Anhanguera
 - 🌱 Desenvolvimento Web - Oracle Next Education
 
  ##
