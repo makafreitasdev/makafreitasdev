@@ -1,6 +1,6 @@
 ## Olá, meu nome é Matheus Freitas
 
-Atualmente sou fisioterapeuta e estou em transição de carreira para a área de Tecnologia da Informação (T.I), venho conciliando meus estudos em T.I com minha carreira de fisioterapia há oito meses. Adquiri habilidades valiosas trabalhando com pacientes e desenvolvendo uma paixão por ajudar as pessoas a melhorar suas vidas. Agora, eu quero aplicar minhas habilidades de resolução de problemas e minha curiosidade natural para criar soluções inovadoras em T.I e explorar novas oportunidades nesta nova área, aplicando minha experiência em fisioterapia para criar soluções tecnológicas que possam ajudar as pessoas de uma forma diferente.
+Atualmente sou fisioterapeuta e estou em transição de carreira para a área de Tecnologia da Informação (T.I), venho conciliando meus estudos em T.I com minha carreira de fisioterapia há dez meses. Adquiri habilidades valiosas trabalhando com pacientes e desenvolvendo uma paixão por ajudar as pessoas a melhorar suas vidas. Agora, eu quero aplicar minhas habilidades de resolução de problemas e minha curiosidade natural para criar soluções inovadoras em T.I e explorar novas oportunidades nesta nova área, aplicando minha experiência em fisioterapia para criar soluções tecnológicas que possam ajudar as pessoas de uma forma diferente.
 
 - 🌱 Bacharel em Fisioterapia 2018.2 - ASCES-UNITA
 - 💻 Desenvolvimento Web
